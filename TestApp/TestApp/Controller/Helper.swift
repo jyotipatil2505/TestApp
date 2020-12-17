@@ -58,3 +58,8 @@ open class OpenClass {
     }
 }
 
+//Added Temp class
+class ImplementClass {
+    
+}
+
