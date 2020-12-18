@@ -95,6 +95,11 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
             }
         }
     }
+    
+    //Test Function
+    func appDelegateTestFunction() {
+        
+    }
 
 }
 
