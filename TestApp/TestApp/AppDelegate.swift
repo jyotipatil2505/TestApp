@@ -27,7 +27,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     }
     
     func applicationDidEnterBackground(_ application: UIApplication) {
-        print("applicationDidEnterBackground called")
+        
     }
     
     func applicationWillEnterForeground(_ application: UIApplication) {
