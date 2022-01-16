@@ -7,6 +7,7 @@
 
 import UIKit
 
+
 class Helper: NSObject {
     
     static var helperObject = "Helper object is a class object" //Class Object
